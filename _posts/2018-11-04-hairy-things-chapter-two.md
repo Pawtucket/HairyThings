@@ -1,6 +1,6 @@
 ---
 ID: 74
-post_title: 'Hairy Things &#8211; Chapter Two'
+post_title: Chapter Two
 author: ng23055
 post_excerpt: ""
 layout: post
@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-11-04 16:04:13
 ---
-<h2>Chapter Two</h2>
 Derek watched as the restaurant patrons who had been sitting peacefully in their chairs all leaped up in unison. As they closed in, they formed a circle around the President’s table. He glanced at Audrey.
 
 “Did you know about this?” he asked.
