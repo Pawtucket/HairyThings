@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://hairythings.gazerbeam.com/hairy-things-chapter-two
 published: true
-post_date: 2018-11-04 16:05:11
+post_date: 2018-11-04 16:04:13
 ---
 <h2>Chapter Two</h2>
 Derek watched as the restaurant patrons who had been sitting peacefully in their chairs all leaped up in unison. As they closed in, they formed a circle around the President’s table. He glanced at Audrey.
