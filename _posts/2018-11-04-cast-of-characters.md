@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://hairythings.gazerbeam.com/cast-of-characters
 published: true
-post_date: 2018-11-04 16:04:13
+post_date: 2018-11-04 04:39:50
 ---
 <h2>Main Characters</h2>
 <b>Detective Mordecai Fox</b> - Mordecai or “Morty” is a part of a two-member team assigned to the case of a missing person in the town of Pawtucket. Fox is married, and a bit of a conspiracy theorist. He is also athletic, and has a sharp mind, the makings of a detective.
