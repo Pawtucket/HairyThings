@@ -7,7 +7,7 @@ layout: post
 permalink: >
   http://hairythings.gazerbeam.com/hairy-things-chapter-one
 published: true
-post_date: 2018-11-04 04:39:50
+post_date: 2018-11-04 16:05:11
 ---
 <h2>Chapter One</h2>
 The motorcade sped through the streets of Pawtucket, ignoring stop signs and zipping through red lights. The only thing preventing it from causing an accident was the police escort which had traveled in front of it. Derek Green watched through the passenger side window as a one member of the escort, a police officer with long jowles and a visible dog’s tail, gave the “hand out” signal to the traffic waiting in front of him.
