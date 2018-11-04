@@ -1,6 +1,6 @@
 ---
 ID: 11
-post_title: 'Hairy Things &#8211; Chapter One'
+post_title: Chapter One
 author: ng23055
 post_excerpt: ""
 layout: post
