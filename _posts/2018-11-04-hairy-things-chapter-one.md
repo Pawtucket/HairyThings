@@ -9,24 +9,24 @@ permalink: >
 published: true
 post_date: 2018-11-04 16:05:11
 ---
-<p>The motorcade sped through the streets of Pawtucket, ignoring stop signs and zipping through red lights. The only thing preventing it from causing an accident was the police escort which had traveled in front of it. Derek Green watched through the passenger side window as a one member of the escort, a police officer with long jowls and a visible dog’s tail, gave the “hand out” signal to the traffic waiting in front of him.</p>
+<p>The motorcade sped through the streets of Pawtucket, ignoring stop signs and zipping through red lights. The only thing preventing it from causing an accident was the police escort which had traveled in front of it. Derek Green watched through the passenger side window asone member of the escort, a police officer with long jowls and a visible dog’s tail, gave the “hand out” signal to the traffic waiting in front of him.</p>
 <p>“It’s remarkable how similar this world is to ours,” Derek remarked.</p>
 <p>Senator Maxwell Black, chairman of the Special Projects committee for the Pentagon, peered out towards Derek’s window. “Yes, everything has evolved almost the same way as our own world,” he said. “Shopping malls, law enforcement . . . clothes.”</p>
 <p>Their driver, a small man with a face covered with grey fur and long pointy ears, briefly glanced over his shoulder. He sounded as if he had heard this conversation a hundreds times before. “You expect us to walk around naked?” He asked with a smirk.</p>
-<p>“Animals on our world do,” Derek said. He didn’t notice the grim expression on his boss’ face as he added, “Except for the ones that work for Hollywood or the circus.”</p>
+<p>“Animals in our world do,” Derek said. He didn’t notice the grim expression on his boss’ face as he added, “Except for the ones that work for Hollywood or the circus.”</p>
 <p>“Careful, Derek,” Maxwell said sternly. “No need to be rude--”</p>
-<p>“Don’t worry, Senator,” their driver said. “I’ve heard it all before. The sad thing is that your world has fooled itself that you are in charge of the animals. Perhaps you are frightened of our world, because it suggests that somewhere in this universe, you are so far away from being in charge that you don’t even exist.”</p>
+<p>“Don’t worry, Senator,” their driver said. “I’ve heard it all before. The sad thing is that your world has fooled itself into thinking that you are in charge of the animals. Perhaps you are frightened of our world, because it suggests that somewhere in this universe, you are so far away from being in charge that you don’t even exist.”</p>
 <p>The limousine pulled up in front of the rear entrance of a restaurant which, from the look of it, had been doing quite well for a number of years.  Two trucks were already backed into the loading docks, and the shipment which had arrived with the senator was being unloaded. “I didn’t mean any offense,” Derek said. “And, how many times have you driven for us?”</p>
 <p>“Since the very beginning,” their driver said. “I’m Peter, Peter Cottontail, member of the Secret Service. Senator, President Berenstain is already waiting inside.”</p>
-<p>“Thank you mister, uh, Cottontail,” Maxwell said, as he opened up his door. As  he and Derek were entering the restaurant, he turned to him and whispered, “Don’t beat yourself up too much. They all look the same to me.”</p>
+<p>“Thank you mister, uh, Cottontail,” Maxwell said, as he opened up his door. As he and Derek were entering the restaurant, he turned to him and whispered, “Don’t beat yourself up too much. They all look the same to me.”</p>
 <p>They were escorted down a hallway and through an employee’s break room by two leopard people. Derek wouldn’t have recognized what they were if it weren’t for the markings on on the back of their heads and their tails.</p>
 <p>The two men were lead into the kitchen where blocks of meat were being thawed, cooked, and shaped into all types of meals. Derek tried hard not to think about where that meat had come from.</p>
 <p>Finally, they exited the kitchen and stepped out into the main dining hall. The main floor was spacious. Every chair was filled with an animal who was either enjoying a meal, placing an order, or waiting for their meal to come. Other patrons peered down from the second floor.</p>
-<p>President Berenstain sat at a long table positioned in the center of the room. On his left side sat a stern looking Secret Service agent, dressed in a suit. Spots of white wool puffed out between his neck and his collar, leading Derek to wonder if he was a sheep. Berentain’s daughter sat to his right. While he sported a bigger build and a broad, hary mane, she was far more petite. When Berenstain spotted the humans who were approaching his table, he set down his goblet of liquid mid-sip and then stood. “Senator Black, it’s so nice to see you again.”</p>
+<p>President Berenstain sat at a long table positioned in the center of the room. On his left side sat a stern looking Secret Service agent, dressed in a suit. Spots of white wool puffed out between his neck and his collar, leading Derek to wonder if he was a sheep. Berentain’s daughter sat to his right. While he sported a bigger build and a broad, hairy mane, she was far more petite. When Berenstain spotted the humans who were approaching his table, he set down his goblet of liquid mid-sip and then stood. “Senator Black, it’s so nice to see you again.”</p>
 <p>“Mr. President,” Maxwell responded. “Always good to see you. I trust that this month’s supply has met your approval.”</p>
 <p>“Excellent as always,” Berenstain said.</p>
 <p>“Allow me to introduce my aid, Derek Green,” Maxwell said. “And, this is Angara President Benedict Berenstain.”</p>
-<p>Derek held out a hand, and shook Berenstain’s hand. “I’ve a lot of great things about you, sir,” he said.</p>
+<p>Derek held out a hand, and shook Berenstain’s hand. “I’ve heard a lot of great things about you, sir,” he said.</p>
 <p>“I doubt they were all true,” Berenstain said with a wry grin. He motioned to his daughter. “Let me introduce you to my daughter and top advisor, Audrey.”</p>
 <p>“A pleasure to meet you,” Derek said.</p>
 <p>“Good to meet you,” Audrey spoke quickly, her eyes looking everywhere but at Derek.</p>
@@ -38,7 +38,7 @@ post_date: 2018-11-04 16:05:11
 <p>Starla switched to a private channel. “Morty, what have you figured out?”</p>
 <p>Morty, her partner, responded back over her headphones. “Mainly, that I shouldn’t eat a big lunch before I examine a crime scene.”</p>
 <p>Starla sighed. “Anything you’ve noticed about the perp?”</p>
-<p>Morty scribbled something in his notepad, then glanced around. He lifted the portable CB radio back up to his mouth, then pressed the “talk” button.  “Only that his parents died quick.”</p>
+<p>Morty scribbled something in his notepad, then glanced around. He lifted the portable CB radio back up to his mouth, then pressed the “talk” button. “Only that his parents died quick.”</p>
 <p>“Weapon?”</p>
 <p>“His claws,” Morty responded. “University identified him as Roger Potterfield. His parents were Mary and Jim Potterfield. They were here to help him move out, just like a lot of other students after classes end for the Spring.”</p>
 <p>“Yes, but not every student commits murder,” Starla said. “What made him different?”</p>
