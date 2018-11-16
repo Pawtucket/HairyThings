@@ -12,12 +12,12 @@ post_date: 2018-11-16 04:35:54
 <h1><img src="http://hairythings.gazerbeam.com/wp-content/uploads/2018/11/null-1.png" width="624" height="354" alt="" title=""></h1>
 <h2>Morty’s Journal</h2>
 <h3>Day 19</h3>
-<p>It has been nearly a month since we arrived on this world, and we haven’t seen anybody since we escaped the soldiers outside that house. Of course, it took us a few days to reach an area that wasn’t flooded, and then we walked for five miles before we reached what appears to be a shopping center. That was ten days ago, and we’ve barely explored half of this massive structure.</p>
+<p>It has been nearly a month since we arrived on this world, and we haven’t seen anybody since we escaped the soldiers outside that house. Of course, it took us a few days to reach an area that wasn’t flooded, and then we walked for a few miles before we reached what appears to be a shopping center. That was ten days ago, and we’ve barely explored half of this massive structure.</p>
 <p>Audrey has adjusted well to our new surroundings. She seems to know a lot about humans, but resists sharing too much with me. Our government has known about this alternative Earth for decades, and have traded access to our world for supplies.</p>
 <p>We spend most of our time rummaging through the abandoned stores for supplies we will be able to take with us when we are ready to move on. I’m not sure, though, when that would be, or where we should go next. Audrey has suggested that it would be better for us to just stay where we are until we are rescued, but we can expect that to happen.</p>
 <p>However, I do want to be prepared in case there is ever an opportunity to get some kind of message through to our people back at home, so I will be making a record of our experiences here.</p>
 <h3>Day 25</h3>
-<p>Today Audrey and I agreed we would explore a new part of the center. I woke up feeling achy and sick to my stomach. I assumed it was from hunger, so I ate breakfast. It helped me feel better, but as we were starting on our trip I started to feel sick to my stomach again. A few minutes later, I threw up on the ground.</p>
+<p>Today Audrey and I agreed we would explore a new part of the center. I woke up feeling queasy. I assumed it was from hunger, so I ate breakfast. It helped me feel better, but as we were starting on our trip I started to feel sick to my stomach again. A few minutes later, I threw up on the ground.</p>
 <p>“Are you going to be okay?” Audrey asked, gingerly rubbing my back with her hand. We were both wearing parkas we had found in one of the stores devoted to camping gear. “Do you want to go back to our camp, and rest?”</p>
 <p>“No,” I said, wiping my chin with my sleeve. “If we wait, we’ll lose daylight.”</p>
 <p>“Morty, you’ve been throwing up a lot these last few mornings,” Audrey said.</p>
