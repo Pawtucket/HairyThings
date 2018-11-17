@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-11-17 01:28:48
 ---
-<img title="" src="http://hairythings.gazerbeam.com/wp-content/uploads/2018/11/null-2.png" alt="" width="624" height="154" />
+&nbsp;
 
 Dr. Barnes leaned down to check Audrey’s pulse. At his request, two soldiers ran back into the camping store to grab blankets and to find water.
 
