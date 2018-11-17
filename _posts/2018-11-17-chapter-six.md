@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2018-11-17 01:28:48
 ---
-&nbsp;
-
 Dr. Barnes leaned down to check Audrey’s pulse. At his request, two soldiers ran back into the camping store to grab blankets and to find water.
 
 “She’s gone into active labor. We can’t move her until we deliver the baby.” He looked down at Audrey. “Don’t worry, I am a doctor.”
